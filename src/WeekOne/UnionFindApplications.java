@@ -1,4 +1,4 @@
-package CourseIntroduction;
+package WeekOne;
 /**
  * Dynamic connectivity
  * */

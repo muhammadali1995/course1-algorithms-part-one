@@ -1,4 +1,4 @@
-package CourseIntroduction;
+package WeekOne;
 
 /**
  * Quick union with path compression

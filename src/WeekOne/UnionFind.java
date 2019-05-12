@@ -1,4 +1,4 @@
-package CourseIntroduction;
+package WeekOne;
 
 /**
  * Union-find lecture notes
